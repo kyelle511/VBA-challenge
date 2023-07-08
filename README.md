@@ -2,6 +2,7 @@
 Module 2 Challenge
 
 Files included with descriptions:
+
 1- VBAChallenge.vbs: includes two Macro Scripts 'SummaryStats' and 'NewDataActions'. 'SummaryStats' should be run first and then 'NewDataActions'.  'SummaryStats' pulls the ticker symbol, calculates the yearly change for that ticker, calculates the percentage change for that ticker and calculates the total stock volume.  'NewDataActions' will conditionally format the yearly change column that was calculated and determine which stock had the greatest % increase, greatest % decrease, and the greatest total volume. 
 
 2-ScreenshotWorksheet1.png: shows the first worksheet (2018) in the excel file after running the scripts
